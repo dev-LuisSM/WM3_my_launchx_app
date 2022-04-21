@@ -1,0 +1,23 @@
+{
+  "name": "wm3_my_launchx_app",
+  "version": "1.0.0",
+  "description": "Práctica para el tema NodeJs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-LuisSM/WM3_my_launchx_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-LuisSM/WM3_my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/dev-LuisSM/WM3_my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
