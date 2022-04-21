@@ -8,3 +8,5 @@ Práctica para el tema NodeJs.
 - Exportación e importación de clases
 - Habilitar comandos NPM
 - Prueba de unidad básica con JEST
+
+Playbook: [Mis prácticas](https://github.com/dev-LuisSM/playbook)
